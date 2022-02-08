@@ -1,0 +1,4 @@
+com\projects\coronavirustracker\CoronavirusTrackerApplication.class
+com\projects\coronavirustracker\model\LocationStats.class
+com\projects\coronavirustracker\service\CoronaVirusDataService.class
+com\projects\coronavirustracker\controller\HomeController.class
